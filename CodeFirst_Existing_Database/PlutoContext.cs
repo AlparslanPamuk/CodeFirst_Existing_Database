@@ -15,6 +15,7 @@ namespace CodeFirst_Existing_Database
         public virtual DbSet<Authors> Authors { get; set; }
         public virtual DbSet<Courses> Courses { get; set; }
         public virtual DbSet<Tags> Tags { get; set; }
+        public virtual DbSet<Category> Categories { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
