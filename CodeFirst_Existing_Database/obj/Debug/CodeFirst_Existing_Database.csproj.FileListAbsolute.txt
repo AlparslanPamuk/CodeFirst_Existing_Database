@@ -17,3 +17,4 @@ C:\Users\alp_g\OneDrive\Desktop\Udemy EntityFm\CodeFirst_Existing_Database\CodeF
 C:\Users\alp_g\OneDrive\Desktop\Udemy EntityFm\CodeFirst_Existing_Database\CodeFirst_Existing_Database\obj\Debug\CodeFirst_Existing_Database.Migrations.AddDatePublishedColumnToCoursesTable.resources
 C:\Users\alp_g\OneDrive\Desktop\Udemy EntityFm\CodeFirst_Existing_Database\CodeFirst_Existing_Database\obj\Debug\CodeFirst_Existing_Database.Migrations.RenameTitleToNameInCoursesTable.resources
 C:\Users\alp_g\OneDrive\Desktop\Udemy EntityFm\CodeFirst_Existing_Database\CodeFirst_Existing_Database\obj\Debug\CodeFirst_Existing_Database.Migrations.DeleteDatePublishedColumnFromCoursesTable.resources
+C:\Users\alp_g\OneDrive\Desktop\Udemy EntityFm\CodeFirst_Existing_Database\CodeFirst_Existing_Database\obj\Debug\CodeFirst_Existing_Database.Migrations.AddAnnotationsToCourseTable.resources

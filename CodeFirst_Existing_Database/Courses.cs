@@ -16,18 +16,21 @@ namespace CodeFirst_Existing_Database
 
         public int Id { get; set; }
 
+        [Required]
+        [MaxLength(255)]
+
         public string Name { get; set; }
 
+        [Required]
+        [MaxLength(2000)]
         public string Description { get; set; }
 
         public Category Category { get; set; }
 
-       
-
         public int level { get; set; }
 
         public float FullPrice { get; set; }
-
+        [ForeignKey("Authors")]
         public int? Author_Id { get; set; }
 
         public virtual Authors Authors { get; set; }
